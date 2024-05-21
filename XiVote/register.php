@@ -1,0 +1,6 @@
+<?php
+
+// registration.php
+
+
+?>
